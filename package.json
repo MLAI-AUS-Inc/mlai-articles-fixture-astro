@@ -1,0 +1,14 @@
+{
+  "name": "mlai-articles-fixture-astro",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.12.0"
+  },
+  "scripts": {
+    "build": "astro build"
+  },
+  "dependencies": {
+    "astro": "7.3.8"
+  }
+}

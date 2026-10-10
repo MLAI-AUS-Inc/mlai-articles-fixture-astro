@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "framework": "astro",
+  "sandbox": true,
+  "output_dir": "dist",
+  "source_files": [
+    "package.json",
+    "astro.config.mjs",
+    "src/pages/index.astro"
+  ],
+  "deploy_host": "github-pages",
+  "repository_prefix": "mlai-articles-fixture-"
+}

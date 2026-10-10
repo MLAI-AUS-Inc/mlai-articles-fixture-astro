@@ -1,0 +1,16 @@
+node_modules/
+.next/
+.nuxt/
+.output/
+.svelte-kit/
+build/
+dist/
+out/
+public/
+_site/
+.cache/
+.jekyll-cache/
+.bundle/
+vendor/
+*.log
+.env*
